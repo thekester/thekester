@@ -1,4 +1,4 @@
-### Bonjour tout le monde , je suis Théophile - Avenel [thekester][site web] 👋
+### Bonjour tout le monde , je suis Théophile - Avenel [thekester][site web] :wave:
 
 ## Je suis actuellement un étudiant à [IUT Lannion][universite]
 - 🔭 Je suis actuellement sur un [projet perso][projetActuel]
@@ -35,6 +35,10 @@
 <br />
 <br />
 
+### Dernières vidéos Youtube
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE-LIST:END -->
+
 [site web]: https://tavenel.netlify.app
 [universite]: http://www.iut-lannion.fr/
 [projetActuel]: https://github.com/thekester/traitementCarteMagic
@@ -42,18 +46,3 @@
 [youtube]: https://www.youtube.com/channel/UCUzyyjeZdNp0TTtFn2dRVtQ?
 [twitter]: https://twitter.com/AvenelTheophile
 [linkedin]: https://www.linkedin.com/in/theophile-avenel-42974a194
-
-<!--
-**thekester/thekester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
