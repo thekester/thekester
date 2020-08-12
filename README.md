@@ -37,6 +37,7 @@
 
 ### LATEST YOUTUBE VIDEOS
 <!-- YOUTUBE:START -->
+- [mysterixMode1Joueur](https://www.youtube.com/watch?v=cbG9VeXRSeg)
 <!-- YOUTUBE:END -->
 
 [site web]: https://tavenel.netlify.app
