@@ -3,7 +3,6 @@
 ## Je suis actuellement un étudiant à [IUT Lannion][universite]
 - 🔭 Je suis actuellement sur un [projet perso][projetActuel]
 - 🌱 Je suis en train d'apprendre à utiliser une [API][scryfall]
--
 - Objectif 2020 : Finir mon projet perso
 - ⚡ Loisirs : Joueur de magic et pongiste
 
@@ -19,7 +18,7 @@
 
 <br />
 
-### Langages et outils:
+### Langages et outils:
 
 <img  align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 
