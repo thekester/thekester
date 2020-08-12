@@ -15,7 +15,7 @@
 
 [<img  align="left" alt="Theophile Avenel | Twitter" width="22px" src="https://img.icons8.com/fluent/100/000000/twitter.png" /> ][twitter]
 
-[<img  align="left" alt="Theophile Avenel | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3v3/icons/linledin.svg" /> ][linkedin]
+[<img  align="left" alt="Theophile Avenel | Linkedin" width="22px" src="https://img.icons8.com/office/30/000000/linkedin.png" /> ][linkedin]
 
 <br />
 
