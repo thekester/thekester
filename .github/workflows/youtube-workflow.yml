@@ -1,4 +1,4 @@
-name: Dernières vidéos Youtube
+name: LATEST YOUTUBE VIDEOS
 on:
   schedule:
     # Runs every hour

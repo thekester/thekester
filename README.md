@@ -35,7 +35,7 @@
 <br />
 <br />
 
-### Dernières vidéos Youtube
+### LATEST YOUTUBE VIDEOS
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
