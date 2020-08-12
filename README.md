@@ -37,7 +37,7 @@
 
 ### Dernières vidéos Youtube
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE-LIST:END -->
+<!-- YOUTUBE:END -->
 
 [site web]: https://tavenel.netlify.app
 [universite]: http://www.iut-lannion.fr/
