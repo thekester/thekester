@@ -11,7 +11,7 @@
 
 [<img  align="left" alt="tavenel.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ][site web]
 
-[<img  align="left" alt="Theophile Avenel | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3v3/icons/youtube.svg" /> ][youtube]
+[<img  align="left" alt="Theophile Avenel | Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" /> ][youtube]
 
 [<img  align="left" alt="Theophile Avenel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3v3/icons/twitter.svg" /> ][twitter]
 
