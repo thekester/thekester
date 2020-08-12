@@ -13,7 +13,7 @@
 
 [<img  align="left" alt="Theophile Avenel | Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" /> ][youtube]
 
-[<img  align="left" alt="Theophile Avenel | Twitter" width="22px" src="<img src="https://img.icons8.com/fluent/100/000000/twitter.png"/>" /> ][twitter]
+[<img  align="left" alt="Theophile Avenel | Twitter" width="22px" src="https://img.icons8.com/fluent/100/000000/twitter.png" /> ][twitter]
 
 [<img  align="left" alt="Theophile Avenel | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3v3/icons/linledin.svg" /> ][linkedin]
 
