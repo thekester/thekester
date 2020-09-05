@@ -54,6 +54,3 @@
 [youtube]: https://www.youtube.com/channel/UCUzyyjeZdNp0TTtFn2dRVtQ?
 [twitter]: https://twitter.com/AvenelTheophile
 [linkedin]: https://www.linkedin.com/in/theophile-avenel-42974a194
-
-
---https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=618s
