@@ -62,7 +62,6 @@
 
 </details>
 
-
 [site web]: https://tavenel.netlify.app
 [universite]: http://www.iut-lannion.fr/
 [projetActuel]: https://github.com/thekester/traitementCarteMagic
