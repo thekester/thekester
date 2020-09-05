@@ -8,23 +8,20 @@
 
 ### Contactez-moi:
 
-<div>
 
 [<img align="left" alt="tavenel.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ][site web]
 
-</div>
+<br />
+<br />
 
 [<img  align="left" alt="Theophile Avenel | Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" /> ][youtube]
 
 <br />
-
-<div>
+<br />
 
 [<img  align="left" alt="Theophile Avenel | Twitter" width="22px" src="https://img.icons8.com/fluent/100/000000/twitter.png" /> ][twitter]
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AvenelTheophile?color=1DA1F2&label=follow&logo=Twitter&style=for-the-badge)
-
-</div>
 
 <br />
 
