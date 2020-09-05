@@ -17,7 +17,6 @@
 [<img  align="left" alt="Theophile Avenel | Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" /> ][youtube]
 
 <br />
-<br />
 
 [<img  align="left" alt="Theophile Avenel | Twitter" width="22px" src="https://img.icons8.com/fluent/100/000000/twitter.png" /> ][twitter]
 
