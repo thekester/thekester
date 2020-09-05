@@ -14,6 +14,8 @@
 
 [<img  align="left" alt="Theophile Avenel | Twitter" width="22px" src="https://img.icons8.com/fluent/100/000000/twitter.png" /> ][twitter]
 
+![Twitter Follow](https://img.shields.io/twitter/follow/AvenelTheophile?color=1DA1F2&label=follow&logo=Twitter&style=for-the-badge)
+
 [<img  align="left" alt="Theophile Avenel | Linkedin" width="22px" src="https://img.icons8.com/office/30/000000/linkedin.png" /> ][linkedin]
 
 <br />
@@ -37,6 +39,7 @@
 
 <br />
 <br />
+
 
 ### LATEST YOUTUBE VIDEOS:
 <!-- YOUTUBE:START -->
