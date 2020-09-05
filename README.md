@@ -43,7 +43,7 @@
 - [mysterixMode1Joueur](https://www.youtube.com/watch?v=cbG9VeXRSeg)
 <!-- YOUTUBE:END -->
 
-<img align="left" alt="thekester'Github Stats" src="https://vercel.com/thekester/github-readme-stats/api?username=thekester&show_icons=true&hide_border=true" />
+<img align="left" alt="thekester'Github Stats" src="https://github-readme-stats2.thekester.vercel.app/api?username=thekester&show_icons=true&hide_border=true" />
 
 
 
