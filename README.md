@@ -58,7 +58,7 @@
 <details>
     <summary>:zap: Github Stats </summary>
 
-    <img align="left" alt="thekester'Github Stats" src="https://github-readme-stats2.thekester.vercel.app/api?username=thekester&show_icons=true&hide_border=true" />
+   <img align="left" alt="thekester'Github Stats" src="https://github-readme-stats2.thekester.vercel.app/api?username=thekester&show_icons=true&hide_border=true" />
 
 </details>
 
