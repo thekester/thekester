@@ -42,6 +42,7 @@
 
 ### LATEST YOUTUBE VIDEOS:
 <!-- YOUTUBE:START -->
+- [videoAdmin](https://www.youtube.com/watch?v=yL5FzWaAMAU)
 - [mysterixMode1Joueur](https://www.youtube.com/watch?v=cbG9VeXRSeg)
 <!-- YOUTUBE:END -->
 
