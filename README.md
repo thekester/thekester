@@ -42,6 +42,8 @@
 
 ### LATEST YOUTUBE VIDEOS:
 <!-- YOUTUBE:START -->
+- [utilisateurProjetEtudiantCodeIgniter3](https://www.youtube.com/watch?v=2WVRP3_Cjp0)
+- [administrateurProjetEtudiantCodeIgniter3](https://www.youtube.com/watch?v=8p0mxJz2PtY)
 - [videoAdmin](https://www.youtube.com/watch?v=yL5FzWaAMAU)
 - [mysterixMode1Joueur](https://www.youtube.com/watch?v=cbG9VeXRSeg)
 <!-- YOUTUBE:END -->
