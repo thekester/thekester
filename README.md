@@ -42,6 +42,7 @@
 
 ### LATEST YOUTUBE VIDEOS:
 <!-- YOUTUBE:START -->
+- [Vol d'Étourneau](https://www.youtube.com/watch?v=7CbI7KYhJdk)
 - [utilisateurProjetEtudiantCodeIgniter3](https://www.youtube.com/watch?v=2WVRP3_Cjp0)
 - [administrateurProjetEtudiantCodeIgniter3](https://www.youtube.com/watch?v=8p0mxJz2PtY)
 - [videoAdmin](https://www.youtube.com/watch?v=yL5FzWaAMAU)
