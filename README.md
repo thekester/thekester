@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Old student at [IUT Lannion][university] / and current student at [Polytech Nantes][polytechnantes]
-- 🔭 Currently working on a lot of projects 
+- 🔭 Currently working on a lot of projects,  A lot ... !
 - 🌱 Maybe become a researcher
 - 💼 Network software engineering apprentice at [Orange][orange]
 - 🌍 Completing a 9-week internship as a Sponsored Visiting Researcher at the University of Strathclyde, contributing to research at the Strathclyde Centre for Doctoral Training in AI-Based Ocean Forecasts for Marine Operations (mArIneCAST). This includes utilizing AI to detect long-term trends in physical characteristics of the ocean and predicting future ocean climate. 
@@ -48,12 +48,14 @@
 
 </details>
 
-[university]: http://www.iut-lannion.fr/
-[polytechnantes]: https://www.polytech-nantes.fr/
+[university]: https://iut-lannion.univ-rennes.fr/
+[polytechnantes]: https://polytech.univ-nantes.fr/
 [orange]: https://www.orange.com/
 [currentproject]: https://github.com/thekester/traitementCarteMagic
 [scryfall]: https://scryfall.com/docs/api
 [youtube]: https://www.youtube.com/channel/UCUzyyjeZdNp0TTtFn2dRVtQ?
 [twitter]: https://twitter.com/AvenelTheophile
 [linkedin]: https://www.linkedin.com/in/theophile-avenel-42974a194
+[website]: https://tavenel.fr
+
 
