@@ -5,7 +5,7 @@
 - 🔭 Currently working on a lot of projects,  A lot ... !
 - 🌱 Maybe become a researcher
 - 💼 Network software engineering apprentice at [Orange][orange]
-- 🌍 Completing a 9-week internship as a Sponsored Visiting Researcher at the University of Strathclyde, contributing to research at the Strathclyde Centre for Doctoral Training in AI-Based Ocean Forecasts for Marine Operations (mArIneCAST). This includes utilizing AI to detect long-term trends in physical characteristics of the ocean and predicting future ocean climate. 
+- 🌍 Completing a 9-week internship as a Visiting Researcher at the University of Strathclyde, contributing to research at the Strathclyde Centre for Doctoral Training in AI-Based Ocean Forecasts for Marine Operations (mArIneCAST). This includes utilizing AI to detect long-term trends in physical characteristics of the ocean and predicting future ocean climate. 
 - 🎯 Goal 2030: get my engineering degree
 - ⚡ Hobbies: Magic player and table tennis enthusiast
 
