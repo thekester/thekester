@@ -1,44 +1,35 @@
-### Bonjour tout le monde , je suis Théophile - Avenel [thekester][site web] :wave:
+### Hello everyone, I am Théophile Avenel [thekester][website] :wave:
 
-## Je suis actuellement un étudiant à [IUT Lannion][universite]
-- 🔭 Je suis actuellement sur un [projet perso][projetActuel]
-- 🌱 Je suis en train d'apprendre à utiliser une [API][scryfall]
-- Objectif 2020 : Finir mon projet perso
-- ⚡ Loisirs : Joueur de magic et pongiste
+## About Me
+- 🎓 Old student at [IUT Lannion][university] / and current student at [Polytech Nantes][polytechnantes]
+- 🔭 Currently working on a lot of projects 
+- 🌱 Maybe become a researcher
+- 💼 Network software engineering apprentice at [Orange][orange]
+- 🌍 Completing a 9-week internship as a Sponsored Visiting Researcher at the University of Strathclyde, contributing to research at the Strathclyde Centre for Doctoral Training in AI-Based Ocean Forecasts for Marine Operations (mArIneCAST). This includes utilizing AI to detect long-term trends in physical characteristics of the ocean and predicting future ocean climate. 
+- 🎯 Goal 2030: get my engineering degree
+- ⚡ Hobbies: Magic player and table tennis enthusiast
 
-### Contactez-moi:
+### Contact Me:
 
-
-[<img align="left" alt="tavenel.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> ][site web]
-
-[<img  align="left" alt="Theophile Avenel | Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" /> ][youtube]
-
-[<img  align="left" alt="Theophile Avenel | Twitter" width="22px" src="https://img.icons8.com/fluent/100/000000/twitter.png" /> ][twitter]
-
-[<img  align="left" alt="Theophile Avenel | Linkedin" width="22px" src="https://img.icons8.com/office/30/000000/linkedin.png" /> ][linkedin]
+[<img align="left" alt="tavenel.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Theophile Avenel | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
+[<img align="left" alt="Theophile Avenel | Twitter" width="22px" src="https://img.icons8.com/fluent/100/000000/twitter.png" />][twitter]
+[<img align="left" alt="Theophile Avenel | LinkedIn" width="22px" src="https://img.icons8.com/office/30/000000/linkedin.png" />][linkedin]
 
 <br />
 
-### Langages et outils:
+### Languages and Tools:
 
-<img  align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-
-<img  align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
-
-<img  align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-
-<img  align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-
-<img  align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-
-<img  align="left" alt="Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
-
+<img align="left" alt="Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
-
 
 ### LATEST YOUTUBE VIDEOS:
 <!-- YOUTUBE:START -->
@@ -57,9 +48,10 @@
 
 </details>
 
-[site web]: https://tavenel.netlify.app
-[universite]: http://www.iut-lannion.fr/
-[projetActuel]: https://github.com/thekester/traitementCarteMagic
+[university]: http://www.iut-lannion.fr/
+[polytechnantes]: https://www.polytech-nantes.fr/
+[orange]: https://www.orange.com/
+[currentproject]: https://github.com/thekester/traitementCarteMagic
 [scryfall]: https://scryfall.com/docs/api
 [youtube]: https://www.youtube.com/channel/UCUzyyjeZdNp0TTtFn2dRVtQ?
 [twitter]: https://twitter.com/AvenelTheophile
