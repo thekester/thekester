@@ -43,7 +43,7 @@ My ambition is to pursue further studies at leading academic institutions while 
 ### GitHub activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=thekester&show_icons=true&hide_border=true&theme=transparent&rank_icon=default" alt="Théophile Avenel's GitHub statistics and rank" />
+  <img src="https://github-readme-stats2.thekester.vercel.app/api?username=thekester&show_icons=true&hide_border=true&rank_icon=default" alt="Théophile Avenel's GitHub statistics and rank" />
 </p>
 
 <sub>Selected work and source code are available in my <a href="https://github.com/thekester?tab=repositories">repositories</a>.</sub>
