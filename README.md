@@ -2,11 +2,11 @@
 
 # Théophile Avenel
 
-**Software Engineer | Backend, Networks & Applied AI**
+**Software Engineer | Backend, Networks & Telecommunications**
 
-I build software, maintain open-source projects, and explore research-driven ideas.
+Software engineering, open-source tools, and applied research.
 
-[Website](https://tavenel.fr) · [Open-source projects](https://github.com/thekester?tab=repositories)
+[Repositories](https://github.com/thekester?tab=repositories) · [Tavenel](https://tavenel.fr)
 
 </div>
 
@@ -14,35 +14,30 @@ I build software, maintain open-source projects, and explore research-driven ide
 
 ### About
 
-I am a France-based software engineer with a background in backend development, networking, and telecommunications. I spent three years working on network software at **Orange**. Today, I work independently under **[Tavenel](https://tavenel.fr)**, taking on software development projects for clients.
+I'm a software engineer based in France. I spent three years at **Orange** working on network software engineering and project delivery. I now work independently on software development projects, primarily involving Python, backend systems, APIs, and automation.
 
-My work includes Python services, APIs, automation, and infrastructure tooling. Outside client work, I maintain open-source projects and explore cybersecurity and open-source intelligence.
+I also build and maintain open-source tools, with an interest in cybersecurity and open-source intelligence. Previously, I was a **Visiting Researcher at the University of Strathclyde**, where I contributed to research exploring AI applications for coastal erosion.
 
-As a **Visiting Researcher at the University of Strathclyde** in Scotland, I contributed to a project exploring AI applications for coastal erosion analysis and prediction.
+### Selected projects
 
-### Selected work
-
-| Project | Overview |
+| Project | What it does |
 | :--- | :--- |
-| **[Droidrops](https://github.com/thekester/Droidrops)** | An open-source Android RSS reader, maintained as an independent fork of Readrops, with support for multiple feed services. |
-| **[WordHunt](https://github.com/thekester/WordHunt)** | A Python-based archive of French words of the day, with automated collection, validation, and GitHub Actions workflows. |
+| **[chatgpt-export](https://github.com/thekester/chatgpt-export)** | Browser extension for exporting and archiving ChatGPT conversations as Markdown, HTML, ZIP, or Joplin files. Supports attachments and conversation history. |
+| **[Droidrops](https://github.com/thekester/Droidrops)** | Open-source Android RSS reader maintained as an independent fork of Readrops, with support for multiple feed services. |
+| **[WordHunt](https://github.com/thekester/WordHunt)** | Python-based archive of French words of the day, using automated collection, validation, and GitHub Actions. |
 
-### Technical interests
+### Technical focus
 
-**Software engineering** &nbsp; Python, backend architecture, APIs, developer tooling
+**Backend and tooling:** Python, APIs, automation, software infrastructure
 
-**Systems** &nbsp; Networking, telecommunications, infrastructure, automation
+**Systems:** Networking, telecommunications, developer tooling
 
-**Exploration** &nbsp; Applied AI, cybersecurity, open-source intelligence, research
+**Research interests:** Applied AI, cybersecurity, open-source intelligence
 
-### Looking ahead to 2030
+### What's next
 
-By 2030, I hope to continue my studies at leading academic institutions and contribute to new software and research projects. I am interested in the practical overlap between engineering, security, and applied AI.
+I plan to keep contributing to software and research projects and, by 2030, pursue further studies at leading academic institutions.
 
 ### GitHub activity
 
-<p>
-  <img src="https://github-readme-stats2.thekester.vercel.app/api?username=thekester&show_icons=true&hide_border=true&rank_icon=default" alt="Théophile Avenel's GitHub statistics and rank" />
-</p>
-
-
+<img src="https://github-readme-stats2.thekester.vercel.app/api?username=thekester&show_icons=true&hide_border=true&rank_icon=default" alt="GitHub statistics and rank for thekester" />
