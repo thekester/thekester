@@ -1,25 +1,49 @@
+<div align="center">
+
 # Théophile Avenel
 
-**Software Engineer | Founder of [Tavenel](https://tavenel.fr) | Former Visiting Researcher**
+**Software Engineer · Independent Entrepreneur · Former Visiting Researcher**
 
-Based in France. Building software at the intersection of backend engineering, network systems, and applied AI.
+Building reliable software, exploring complex systems, and connecting engineering with research.
 
-I am an independent software engineer and entrepreneur with a background in networks and telecommunications, including three years working on network software engineering at Orange. Through **Tavenel**, I develop software solutions for businesses, from Python services and APIs to automation and infrastructure.
+[Website](https://tavenel.fr) · [Open-source projects](https://github.com/thekester?tab=repositories)
 
-My curiosity extends to cybersecurity, open-source intelligence, and the less visible layers of the internet. I enjoy exploring how systems work, challenging assumptions, and learning by building.
+</div>
 
-I previously worked as a **Visiting Researcher at the University of Strathclyde**, Scotland, contributing to research on AI-driven coastal erosion analysis and prediction.
+---
 
-### Focus
+### About
 
-`Python` · `Backend engineering` · `APIs` · `Networks` · `Automation` · `Applied AI` · `Security research`
+I am a software engineer based in France, specializing in backend development, networks, and telecommunications. After three years in network software engineering at **Orange**, I founded **[Tavenel](https://tavenel.fr)**, my independent software engineering business.
 
-### 2030 and beyond
+I design and build Python services, APIs, automation workflows, and software infrastructure. Beyond day-to-day development, I explore cybersecurity, open-source intelligence, and the technical layers of the web.
 
-By 2030, I aim to further my education at leading academic institutions while continuing to develop original software, contribute to open-source and research projects, and collaborate with people pushing technology forward. My goal is to keep connecting rigorous research with useful products.
+I was also a **Visiting Researcher at the University of Strathclyde** in Scotland, contributing to applied research involving AI and coastal erosion. I am especially interested in work that turns scientific ideas into useful tools.
+
+### Selected work
+
+| Project | Overview |
+| :--- | :--- |
+| **[Droidrops](https://github.com/thekester/Droidrops)** | An open-source Android RSS reader, maintained as an independent fork of Readrops, with support for multiple feed services. |
+| **[WordHunt](https://github.com/thekester/WordHunt)** | A Python-based archive of French words of the day, with automated collection, validation, and GitHub Actions workflows. |
+| **[Tavenel](https://tavenel.fr)** | Independent software engineering services for businesses, focused on backend systems, APIs, and automation. |
+
+### Areas of interest
+
+**Software engineering** &nbsp; Python, backend architecture, APIs, developer tooling
+
+**Systems** &nbsp; Networking, telecommunications, infrastructure, automation
+
+**Exploration** &nbsp; Applied AI, cybersecurity, open-source intelligence, research
+
+### Looking ahead to 2030
+
+My ambition is to pursue further studies at leading academic institutions while continuing to build independent products and contribute to open-source and research initiatives. I want to work across disciplines, develop original projects, and bring rigorous engineering to problems that matter.
 
 ### GitHub activity
 
-![GitHub statistics for thekester](https://github-readme-stats.vercel.app/api?username=thekester&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=default)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=thekester&show_icons=true&hide_border=true&theme=transparent&rank_icon=default" alt="Théophile Avenel's GitHub statistics and rank" />
+</p>
 
-[Explore my repositories](https://github.com/thekester?tab=repositories) · [Tavenel](https://tavenel.fr)
+<sub>Selected work and source code are available in my <a href="https://github.com/thekester?tab=repositories">repositories</a>.</sub>
