@@ -20,6 +20,6 @@ By 2030, I aim to further my education at leading academic institutions while co
 
 ### GitHub activity
 
-![GitHub statistics for thekester](https://github-readme-stats.vercel.app/api?username=thekester&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github)
+![GitHub statistics for thekester](https://github-readme-stats.vercel.app/api?username=thekester&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=default)
 
 [Explore my repositories](https://github.com/thekester?tab=repositories) · [Tavenel](https://tavenel.fr)
